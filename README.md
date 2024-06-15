@@ -12,6 +12,3 @@ Work with iPython Notebooks
 Implement vectorization across multiple training examples
 Explain the concept of broadcasting
 
-# Reflect on what's next after talking a course on Deep learning
-=> Start takling'/building your own project
-=> Transformers architecture -> Just a though
